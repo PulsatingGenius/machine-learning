@@ -1,4 +1,25 @@
 # machine-learning
-Content for Udacity's Machine Learning curriculum, which includes projects and their descriptions.
+This repository includes the projects which I completed under Udacity's Machine Learning course.
+<hr>
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
+## Supervised Learning
+### Predicting Boston Housing Prices
+(https://github.com/nupurbaghel/machine-learning/blob/master/projects/boston_housing/boston_housing.ipynb)
+
+## Unsupervised Learning
+### Creating Customer Segments
+(https://github.com/nupurbaghel/machine-learning/blob/master/projects/customer_segments/customer_segments.ipynb)
+
+## Reinforcement Learning
+### Train a Smartcab to Drive
+(https://github.com/nupurbaghel/machine-learning/blob/master/projects/smartcab/smartcab.ipynb)
+
+## Deep Learning
+### Making a Dog Breed Classifier
+(https://github.com/nupurbaghel/dog-project/blob/master/dog_app.ipynb)
+Note : This link belongs to a different repository, but was done under the same course.
+
+## Final Project
+### Making a toxic comment classifier
+(https://github.com/nupurbaghel/Capstone_Project_ML/blob/master/Final_Report%20.ipynb)
+Note : This link belongs to a different repository, but was done under the same course.
